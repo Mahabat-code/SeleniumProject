@@ -17,3 +17,11 @@ public class TestCase {
 
     }
 }
+
+    String ssn_input = " //*[@id='ssn']";
+    String id_input = "//*[@id='email']";
+    String password_input = " //*[@id='password']";
+    String remember_me_input = "//label[@for='auth-page-remember-me']";
+    String forgot_password_input = "//a[@href='https://my-fork.com/password/reset']";
+    String submit_input = "//button[@type='submit']";
+
